@@ -16,11 +16,11 @@ Currently working as a **Software Engineer**, I enjoy every engineering challeng
 ## 🧠 Tech Skills
 
 ### 📝 Languages
-- 💡 **Python** – scripting, automation, data processing, backend development  
-- ⚙️ **C++** – performance-critical applications and low-level systems
+- 💡 **Python** – OOP, scripting, automation, data processing, backend development  
+- ⚙️ **C++** – OOP, performance-critical applications and low-level systems
 
 ### 🖥️ System Administration
-- 🐧 Linux & 🪟 Windows – system configuration, networking, scripting
+- 🐧 Linux & 🖱️ Windows – system configuration, networking, scripting
 
 ### 🌐 Communication Protocols
 - 🔌 TCP / UDP / IP  
@@ -29,7 +29,7 @@ Currently working as a **Software Engineer**, I enjoy every engineering challeng
 
 ### 🛠️ System & DevOps
 - 🐳 **Docker** – containerization and deployment  
-- 🔧 Bash scripting, CLI tools, config management
+- 🔧 Bash scripting, CLI tools, GIT, Jenkins
 
 ---
 
